@@ -1,5 +1,5 @@
 # Finance Dashboard App
 
-Built A MERN Finance Dashboard App Machine Learning, Typescript, React, Node, MUI
+Built A MERN Finance Dashboard App using Machine Learning, Typescript, React, Node, MUI
 
 
