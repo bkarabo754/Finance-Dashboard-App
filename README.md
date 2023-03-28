@@ -1,7 +1,5 @@
 # Finance Dashboard App
 
-Build A MERN Finance Dashboard App
+Built A MERN Finance Dashboard App Machine Learning, Typescript, React, Node, MUI
 
-Video: https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
